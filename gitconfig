@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nat.walentynowicz@gmail.com
+	name = Natalia Walentynowicz
